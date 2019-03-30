@@ -1,2 +1,2 @@
 # National Data Science Challenge 2019
-Singapore National Data Science Competition
+This is the largest data science [competition](https://careers.shopee.sg/ndsc/) in Singapore hosted by Shopee. The 
