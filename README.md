@@ -3,7 +3,7 @@ This is the largest data science [competition](https://careers.shopee.sg/ndsc/) 
 
 The goal of this repository is to mark down what I've learned throughout the competition and to share my 2 cents with other data enthusiasts. Feel free to drop a line with your questions. Your recommendations are most welcome.
 
-The model pipeline of my solution consists of three part:
+The model pipeline of my solution consists of three parts:
 
 1. CNN for image data
 2. MLP for text data
